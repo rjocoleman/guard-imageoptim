@@ -1,0 +1,4 @@
+# guard-imageoptim configuration
+guard 'imageoptim' do
+  watch(%r{^images/(.*)})
+end
