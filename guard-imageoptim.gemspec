@@ -8,8 +8,8 @@ Gem::Specification.new do |spec|
   spec.version       = Guard::ImageoptimVersion::VERSION
   spec.authors       = ['Robert Coleman']
   spec.email         = ['github@robert.net.nz']
-  spec.description   = %q{TODO: Write a gem description}
-  spec.summary       = %q{TODO: Write a gem summary}
+  spec.description   = %q{Guard for https://github.com/JamieMason/ImageOptim-CLI}
+  spec.summary       = %q{A Guard for ImageOptim}
   spec.homepage      = 'https://github.com/rjocoleman/guard-imageoptim/'
   spec.license       = 'MIT'
 
