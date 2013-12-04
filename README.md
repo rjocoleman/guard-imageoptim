@@ -7,7 +7,7 @@
 
 Add this line to your application's Gemfile:
 
-`gem 'guard-imageoptim', :git => 'https://github.com/rjocoleman/guard-imageoptim.git', :branch => 'master'`
+`gem 'guard-imageoptim'`
 
 
 ## Usage
